@@ -1,0 +1,4 @@
+[submodule "swarm_gcs"]
+	path = swarm_gcs
+	url = https://github.com/HKUST-Swarm/swarm_gcs
+	branch = master
